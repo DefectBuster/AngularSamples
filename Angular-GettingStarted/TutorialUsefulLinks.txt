@@ -1,0 +1,9 @@
+https://typescriptlang.org/play
+
+github.com/DeborahK/Angular-GettingStarted
+
+https://getbootstrap.com/
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+
+http://rxmarbles.com
